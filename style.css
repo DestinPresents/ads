@@ -32,6 +32,9 @@ body {
     padding: 34px 18px;
     position: relative;
 }
+.menu-button {
+    text-decoration: none;
+}
 
 /* Background Animations */
 
